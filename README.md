@@ -1,1 +1,1 @@
-Welcome to the Medical AI Chatbot project! This chatbot is designed to provide users with personalized health information and guidance based on their symptoms and concerns. The chatbot leverages an RNN and machine learning techniques to understand user queries and provide accurate and relevant responses.
+This chatbot is designed to provide users with personalized health information and guidance based on their symptoms and concerns. The chatbot leverages an RNN and machine learning techniques to understand user queries and provide accurate and relevant responses.
